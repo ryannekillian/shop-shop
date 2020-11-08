@@ -3,7 +3,7 @@
 **Budget Tracker**
 
   ## **Description**
-  * 
+  * e-commerce platform
    
   ## **Table of Contents**
   ### [Installation](#Installation)
